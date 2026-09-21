@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GraphRAG — A Learning Project, Built From Scratch
 
 A complete **GraphRAG pipeline** over real business/economy Wikipedia data:
@@ -178,3 +179,6 @@ OpenAI-compatible (if `OPENAI_BASE_URL` set) → Ollama.
 - **Zero pip dependencies** — stdlib only (`urllib`, `json`, `pathlib`...)
 - An LLM reachable via any of: OpenAI-compatible endpoint, Gemini API key,
   or Ollama
+=======
+# Graphrag
+>>>>>>> f2fd66f7ee5d335df62d52669ca41aa68e64c657
