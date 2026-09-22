@@ -1,0 +1,7 @@
+# NER_MODEL cloud requirements (training/inference only; stdlib pipeline untouched)
+torch>=2.1
+transformers>=4.38
+tqdm>=4.66
+datasets>=2.19            # hf_builder.py: CoNLL-2003 test set
+# TPU VM images already ship torch_xla matching their torch build — do NOT pip install it there.
+# Colab TPU: pip install torch_xla

@@ -10,7 +10,8 @@ secrets.txt
 # (data.py -> build_graph.py -> merge_entities.py -> communities.py)
 # and can be rebuilt from them; do not version it.
 data/
-
+.kilo/
+/agents/
 # ---- Generated outputs ----
 graph.html
 
